@@ -1,0 +1,16 @@
+{
+  "name": "pj__zenn_article",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ToukaHanetsuki/pj__zenn_article.git",
+  "author": "touka.hanetsuki <touka.hanetuki@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.70"
+  }
+}
